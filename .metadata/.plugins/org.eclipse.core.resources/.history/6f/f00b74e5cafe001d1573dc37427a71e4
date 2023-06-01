@@ -1,0 +1,11 @@
+package projet.jsf.data;
+
+import java.io.Serializable;
+
+@SuppressWarnings("serial")
+public class Document implements Serializable {
+
+	
+	
+	
+}

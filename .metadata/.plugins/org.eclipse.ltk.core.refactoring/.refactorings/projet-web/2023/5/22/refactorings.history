@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Auteur.java&apos; to &apos;projet-web/src/main/java/projet.jsf.data&apos;&#x0D;&#x0A;- Original project: &apos;projet-web&apos;&#x0D;&#x0A;- Destination element: &apos;projet-web/src/main/java/projet.jsf.data&apos;&#x0D;&#x0A;- Original element: &apos;projet.jsf.data.Auteur.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;projet.jsf.data" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;projet.jsf.data{Auteur.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685438834208" units="1" version="1.0"/>
+</session>

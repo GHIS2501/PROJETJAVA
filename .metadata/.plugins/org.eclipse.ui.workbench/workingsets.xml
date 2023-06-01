@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684244632828_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684244632863_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684336759267_3" label="Library" name="Library">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/~UtilServeurs/UtilServeurs.bat" type="1"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684827952265_4" label="Contact" name="Contact">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/contacts" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/contacts-commun" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/contacts-ear" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/contacts-ejb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/contacts-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/~UtilServeurs" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684244634735_2" label="Window Working Set" name="Aggregate for window 1684244634735"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684827955874_5" label="Multiple Working Sets" name="Aggregate:Contact:Library:">
+<workingSet IMemento.internal.id="Contact"/>
+<workingSet IMemento.internal.id="Library"/>
+</workingSet>
+<mruList name="Library"/>
+</workingSetManager>

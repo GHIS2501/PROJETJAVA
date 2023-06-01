@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="projet-commun"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/TEMP/maven-repository/jakarta/inject/jakarta.inject-api/1.0.5/jakarta.inject-api-1.0.5.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-api/1.6.0.Final/arquillian-container-test-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-api/1.6.0.Final/arquillian-test-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.6.0.Final/arquillian-container-test-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/hibernate/validator/hibernate-validator/6.0.23.Final/hibernate-validator-6.0.23.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-spi/1.2.6/shrinkwrap-spi-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-api/1.2.6/shrinkwrap-api-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-spi/1.6.0.Final/arquillian-test-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-spi/1.6.0.Final/arquillian-container-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-api/1.6.0.Final/arquillian-core-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-spi/1.6.0.Final/arquillian-core-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.6.0.Final/arquillian-container-test-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-impl-base/1.6.0.Final/arquillian-test-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/2.0.0/shrinkwrap-descriptors-spi-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/junit/arquillian-junit-core/1.6.0.Final/arquillian-junit-core-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/enterprise/jakarta.enterprise.cdi-api/2.0.2/jakarta.enterprise.cdi-api-2.0.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.3_spec/2.0.0.Final/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.2.6/shrinkwrap-impl-base-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/junit/arquillian-junit-container/1.6.0.Final/arquillian-junit-container-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/2.0.0.Final/jboss-ejb-api_3.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/servlet/jboss-servlet-api_4.0_spec/2.0.0.Final/jboss-servlet-api_4.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.3_spec/2.0.1.Final/jboss-annotations-api_1.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-api/1.6.0.Final/arquillian-config-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0/shrinkwrap-descriptors-api-base-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-spi/1.6.0.Final/arquillian-config-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.3_spec/3.1.0.SP01/jboss-jsf-api_2.3_spec-3.1.0.SP01.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/2.0.2.Final/jboss-jaxrs-api_2.1_spec-2.0.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.6.0.Final/arquillian-config-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.6.0.Final/arquillian-protocol-servlet-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/junit/junit/4.13.1/junit-4.13.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource declaration="true" name="%1;" path="%0"/>
+   <linked-resource declaration="true" name="%3;" path="%2"/>
+   <linked-resource name="%2;" path="%4"/>
+   <linked-resource declaration="true" name="%5;" path="%4"/>
+   <linked-resource declaration="true" name="%7;" path="%6"/>
+   <linked-resource name="%2;" path="%8"/>
+   <linked-resource declaration="true" name="%9;" path="%8"/>
+   <linked-resource declaration="true" name="%11;" path="%10"/>
+   <linked-resource declaration="true" name="%13;" path="%12"/>
+   <linked-resource name="%2;" path="%14"/>
+   <linked-resource declaration="true" name="%16;%17;" path="%15"/>
+   <linked-resource declaration="true" name="%19;" path="%18"/>
+   <linked-resource name="%6;" path="%20"/>
+   <linked-resource name="%6;" path="%21"/>
+  </core>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="20" name="%22" offset="2675" path="%23"/>
+   <linked-el length="16" name="%24" offset="2611" path="%23"/>
+   <linked-el length="40" name="%25" offset="3415" path="%23"/>
+   <linked-el length="30" name="%26" offset="3361" path="%23"/>
+   <linked-el length="27" name="%27" offset="1019" path="%23"/>
+   <linked-el length="16" name="%27" offset="994" path="%23"/>
+   <linked-el length="26" name="%28" offset="3214" path="%23"/>
+   <linked-el length="16" name="%28" offset="2611" path="%23"/>
+   <linked-el length="20" name="%28" offset="2675" path="%23"/>
+   <linked-el length="29" name="%28" offset="3282" path="%23"/>
+   <linked-el length="16" name="%29" offset="702" path="%23"/>
+   <linked-el length="16" name="%30" offset="702" path="%23"/>
+   <linked-el length="23" name="%30" offset="1918" path="%23"/>
+   <linked-el length="32" name="%30" offset="957" path="%23"/>
+   <linked-el length="25" name="%30" offset="1325" path="%23"/>
+   <linked-el length="30" name="%30" offset="1624" path="%23"/>
+   <linked-el length="26" name="%31" offset="3214" path="%23"/>
+   <linked-el length="23" name="%32" offset="1918" path="%23"/>
+   <linked-el length="32" name="%32" offset="957" path="%23"/>
+   <linked-el length="25" name="%32" offset="1325" path="%23"/>
+   <linked-el length="30" name="%32" offset="1624" path="%23"/>
+   <linked-el length="27" name="%33" offset="1019" path="%23"/>
+   <linked-el length="16" name="%34" offset="994" path="%23"/>
+   <linked-el length="29" name="%35" offset="3282" path="%23"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="jdbc.password" value="%22"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/data/mapper/IMapper.java" value="%21"/>
+  <alias path="/projet-web/scripts-sql/execute-sql.xml" value="%23"/>
+  <alias path="jdbc.user" value="%24"/>
+  <alias path="strictDelimiterMatching" value="%25"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/util/CompteActif.java" value="%8"/>
+  <alias path="modelCompte" value="%7"/>
+  <alias path="delimitertype" value="%26"/>
+  <alias path="converterCategorie" value="%11"/>
+  <alias path="roles" value="%16"/>
+  <alias path="admin" value="%27"/>
+  <alias path="jdbc" value="%28"/>
+  <alias path="dir" value="%30"/>
+  <alias path="jdbc.url" value="%31"/>
+  <alias path="compteActif" value="%9"/>
+  <alias path="/projet-web/src/main/java/projet/jsf/util/UtilAppli.java" value="%15"/>
+  <alias path="modelInfo" value="%5"/>
+  <alias path="converterGetId" value="%13"/>
+  <alias path="dir.sql" value="%32"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/model/standard/ModelConnexion.java" value="%2"/>
+  <alias path="admin.password" value="%33"/>
+  <alias path="/projet-web/src/main/java/projet/jsf/util/UtilJsf.java" value="%18"/>
+  <alias
+   path="/projet-web/src/main/java/projet/converter/ConverterCategorie.java" value="%10"/>
+  <alias path="admin.user" value="%34"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/util/ConverterGetId.java" value="%12"/>
+  <alias path="jdbc.driver" value="%35"/>
+  <alias path="/projet-web/src/main/java/projet/jsf/data/Compte.java" value="%14"/>
+  <alias path="converterToString" value="%1"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/util/ConverterToString.java" value="%0"/>
+  <alias path="dir.driver" value="%29"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/model/standard/ModelCompte.java" value="%6"/>
+  <alias
+   path="/projet-web/target/generated-sources/annotations/projet/jsf/data/mapper/IMapperImpl.java" value="%20"/>
+  <alias path="utilAppli" value="%17"/>
+  <alias path="modelConnexion" value="%3"/>
+  <alias
+   path="/projet-web/src/main/java/projet/jsf/model/standard/ModelInfo.java" value="%4"/>
+  <alias path="utilJsf" value="%19"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

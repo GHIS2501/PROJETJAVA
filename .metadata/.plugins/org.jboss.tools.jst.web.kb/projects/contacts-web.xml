@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="contacts-commun"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/TEMP/maven-repository/jakarta/inject/jakarta.inject-api/1.0.5/jakarta.inject-api-1.0.5.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/mapstruct/mapstruct/1.5.3.Final/mapstruct-1.5.3.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-api/1.6.0.Final/arquillian-test-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-spi/1.0.0.v20140518/aether-spi-1.0.0.v20140518.jar"/>
+  <path value="/contacts-web/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="contacts-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-api/1.2.6/shrinkwrap-api-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eu/ingwar/tools/arquillian-suite-extension/1.2.2/arquillian-suite-extension-1.2.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-spi/1.6.0.Final/arquillian-test-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-spi/1.6.0.Final/arquillian-container-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-api/1.6.0.Final/arquillian-core-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-spi/1.6.0.Final/arquillian-core-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-api-maven/2.2.7/shrinkwrap-resolver-api-maven-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.3_spec/2.0.0.Final/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-http-lightweight/2.6/wagon-http-lightweight-2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.2.6/shrinkwrap-impl-base-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-api/1.0.0.v20140518/aether-api-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-aether-provider/3.2.5/maven-aether-provider-3.2.5.jar"/>
+  <path value="C:/TEMP/maven-repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar"/>
+  <path value="C:/TEMP/maven-repository/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/2.0.0.Final/jboss-ejb-api_3.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/servlet/jboss-servlet-api_4.0_spec/2.0.0.Final/jboss-servlet-api_4.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar"/>
+  <path value="C:/TEMP/maven-repository/commons-io/commons-io/2.10.0/commons-io-2.10.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-api/1.6.0.Final/arquillian-config-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-spi/1.6.0.Final/arquillian-config-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0/shrinkwrap-descriptors-api-base-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-spi/2.2.7/shrinkwrap-resolver-spi-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/2.0.2.Final/jboss-jaxrs-api_2.1_spec-2.0.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-http-shared/2.6/wagon-http-shared-2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/junit5/arquillian-junit5-container/1.7.0.Alpha12/arquillian-junit5-container-1.7.0.Alpha12.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-settings/3.6.3/maven-settings-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-impl/1.0.0.v20140518/aether-impl-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-api/1.6.0.Final/arquillian-container-test-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-provider-api/3.3.4/wagon-provider-api-3.3.4.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.6.0.Final/arquillian-container-test-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-spi/1.2.6/shrinkwrap-spi-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.4/org.eclipse.sisu.inject-0.3.4.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-model/3.6.3/maven-model-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter/5.9.1/junit-jupiter-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/hibernate/validator/hibernate-validator/6.0.22.Final/hibernate-validator-6.0.22.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-file/3.3.4/wagon-file-3.3.4.jar"/>
+  <path value="C:/TEMP/maven-repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-builder-support/3.6.3/maven-builder-support-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.6.0.Final/arquillian-container-test-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/2.0.0/shrinkwrap-descriptors-spi-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-impl-base/1.6.0.Final/arquillian-test-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-connector-basic/1.0.0.v20140518/aether-connector-basic-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/enterprise/jakarta.enterprise.cdi-api/2.0.2/jakarta.enterprise.cdi-api-2.0.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-settings-builder/3.6.3/maven-settings-builder-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/junit5/arquillian-junit5-core/1.7.0.Alpha12/arquillian-junit5-core-1.7.0.Alpha12.jar"/>
+  <path value="C:/TEMP/maven-repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-impl-maven/2.2.7/shrinkwrap-resolver-impl-maven-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.3_spec/3.1.0.SP01/jboss-jsf-api_2.3_spec-3.1.0.SP01.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.6.0.Final/arquillian-config-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-transport-wagon/1.0.0.v20140518/aether-transport-wagon-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-util/1.0.0.v20140518/aether-util-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-model-builder/3.6.3/maven-model-builder-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-api/2.2.7/shrinkwrap-resolver-api-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.6.0.Final/arquillian-protocol-servlet-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-repository-metadata/3.6.3/maven-repository-metadata-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-spi-maven/2.2.7/shrinkwrap-resolver-spi-maven-2.2.7.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource declaration="true" name="%1;" path="%0"/>
+   <linked-resource declaration="true" name="%3;%4;" path="%2"/>
+   <linked-resource declaration="true" name="%6;" path="%5"/>
+   <linked-resource name="%8;%9;%10;" path="%7"/>
+   <linked-resource name="%8;%9;%10;" path="%11"/>
+   <linked-resource declaration="true" name="%12;" path="%9"/>
+   <linked-resource name="%14;%15;%16;%17;%18;%19;" path="%13"/>
+   <linked-resource declaration="true" name="%21;" path="%20"/>
+   <linked-resource name="%20;" path="%22"/>
+   <linked-resource declaration="true" name="%23;" path="%22"/>
+   <linked-resource name="%20;" path="%24"/>
+   <linked-resource declaration="true" name="%25;" path="%8"/>
+   <linked-resource declaration="true" name="%26;" path="%10"/>
+   <linked-resource name="%20;" path="%27"/>
+   <linked-resource declaration="true" name="%28;" path="%27"/>
+   <linked-resource declaration="true" name="%30;" path="%29"/>
+   <linked-resource declaration="true" name="%32;" path="%31"/>
+  </core>
+  <el>
+   <linked-el length="31" name="%25" offset="1555" path="%33"/>
+   <linked-el length="30" name="%25" offset="1843" path="%33"/>
+   <linked-el length="40" name="%25" offset="1258" path="%34"/>
+   <linked-el length="36" name="%25" offset="2170" path="%33"/>
+   <linked-el length="25" name="%25" offset="639" path="%34"/>
+   <linked-el length="33" name="%25" offset="1087" path="%34"/>
+   <linked-el length="16" name="%25" offset="800" path="%34"/>
+   <linked-el length="28" name="%25" offset="731" path="%33"/>
+   <linked-el length="32" name="%25" offset="994" path="%33"/>
+   <linked-el length="36" name="%25" offset="1279" path="%33"/>
+   <linked-el length="23" name="%25" offset="440" path="%34"/>
+   <linked-el length="37" name="%25" offset="390" path="%33"/>
+   <linked-el length="78" name="%25" offset="847" path="%34"/>
+   <linked-el length="28" name="%25" offset="334" path="%33"/>
+   <linked-el length="34" name="%35" offset="1254" path="%36"/>
+   <linked-el length="21" name="%35" offset="642" path="%37"/>
+   <linked-el length="37" name="%35" offset="774" path="%37"/>
+   <linked-el length="30" name="%35" offset="731" path="%36"/>
+   <linked-el length="31" name="%35" offset="987" path="%36"/>
+   <linked-el length="43" name="%35" offset="1867" path="%36"/>
+   <linked-el length="30" name="%35" offset="332" path="%36"/>
+   <linked-el length="33" name="%35" offset="956" path="%37"/>
+   <linked-el length="45" name="%35" offset="1530" path="%36"/>
+   <linked-el length="23" name="%32" offset="1585" path="%36"/>
+   <linked-el length="39" name="%20" offset="750" path="%38"/>
+   <linked-el length="30" name="%20" offset="861" path="%38"/>
+   <linked-el length="35" name="%20" offset="604" path="%38"/>
+   <linked-el length="21" name="%39" offset="5854" path="%40"/>
+   <linked-el length="31" name="%9" offset="334" path="%41"/>
+   <linked-el length="27" name="%9" offset="1638" path="%36"/>
+   <linked-el length="31" name="%9" offset="988" path="%41"/>
+   <linked-el length="26" name="%9" offset="443" path="%42"/>
+   <linked-el length="40" name="%9" offset="393" path="%41"/>
+   <linked-el length="36" name="%9" offset="1257" path="%41"/>
+   <linked-el length="39" name="%9" offset="1833" path="%41"/>
+   <linked-el length="43" name="%9" offset="1122" path="%42"/>
+   <linked-el length="35" name="%9" offset="1521" path="%41"/>
+   <linked-el length="25" name="%28" offset="1209" path="%43"/>
+   <linked-el length="32" name="%28" offset="1353" path="%43"/>
+   <linked-el length="30" name="%28" offset="1294" path="%43"/>
+   <linked-el length="30" name="%28" offset="1537" path="%43"/>
+   <linked-el length="30" name="%28" offset="1157" path="%43"/>
+   <linked-el length="21" name="%44" offset="6035" path="%40"/>
+   <linked-el length="18" name="%23" offset="415" path="%45"/>
+   <linked-el length="18" name="%23" offset="498" path="%45"/>
+   <linked-el length="60" name="%46" offset="1016" path="%43"/>
+   <linked-el length="33" name="%46" offset="2001" path="%43"/>
+   <linked-el length="23" name="%26" offset="2227" path="%36"/>
+   <linked-el length="30" name="%26" offset="731" path="%36"/>
+   <linked-el length="31" name="%26" offset="987" path="%36"/>
+   <linked-el length="25" name="%26" offset="442" path="%37"/>
+   <linked-el length="38" name="%26" offset="3001" path="%36"/>
+   <linked-el length="33" name="%26" offset="956" path="%37"/>
+   <linked-el length="45" name="%26" offset="1530" path="%36"/>
+   <linked-el length="39" name="%26" offset="389" path="%36"/>
+   <linked-el length="34" name="%26" offset="1254" path="%36"/>
+   <linked-el length="21" name="%26" offset="642" path="%37"/>
+   <linked-el length="26" name="%26" offset="2049" path="%36"/>
+   <linked-el length="37" name="%26" offset="774" path="%37"/>
+   <linked-el length="22" name="%26" offset="2464" path="%36"/>
+   <linked-el length="42" name="%26" offset="1127" path="%37"/>
+   <linked-el length="43" name="%26" offset="1867" path="%36"/>
+   <linked-el length="55" name="%26" offset="2635" path="%36"/>
+   <linked-el length="30" name="%26" offset="332" path="%36"/>
+   <linked-el length="37" name="%26" offset="3177" path="%36"/>
+   <linked-el length="32" name="%24" offset="994" path="%33"/>
+   <linked-el length="36" name="%24" offset="1279" path="%33"/>
+   <linked-el length="31" name="%24" offset="1555" path="%33"/>
+   <linked-el length="30" name="%24" offset="1843" path="%33"/>
+   <linked-el length="39" name="%24" offset="750" path="%38"/>
+   <linked-el length="35" name="%24" offset="604" path="%38"/>
+   <linked-el length="25" name="%24" offset="639" path="%34"/>
+   <linked-el length="33" name="%24" offset="1087" path="%34"/>
+   <linked-el length="16" name="%24" offset="800" path="%34"/>
+   <linked-el length="28" name="%24" offset="334" path="%33"/>
+   <linked-el length="28" name="%24" offset="731" path="%33"/>
+   <linked-el length="32" name="%8" offset="994" path="%33"/>
+   <linked-el length="36" name="%8" offset="1279" path="%33"/>
+   <linked-el length="23" name="%8" offset="440" path="%34"/>
+   <linked-el length="37" name="%8" offset="390" path="%33"/>
+   <linked-el length="31" name="%8" offset="1555" path="%33"/>
+   <linked-el length="30" name="%8" offset="1843" path="%33"/>
+   <linked-el length="40" name="%8" offset="1258" path="%34"/>
+   <linked-el length="36" name="%8" offset="2170" path="%33"/>
+   <linked-el length="28" name="%8" offset="334" path="%33"/>
+   <linked-el length="28" name="%8" offset="731" path="%33"/>
+   <linked-el length="39" name="%10" offset="389" path="%36"/>
+   <linked-el length="34" name="%10" offset="1254" path="%36"/>
+   <linked-el length="42" name="%10" offset="1127" path="%37"/>
+   <linked-el length="30" name="%10" offset="731" path="%36"/>
+   <linked-el length="31" name="%10" offset="987" path="%36"/>
+   <linked-el length="43" name="%10" offset="1867" path="%36"/>
+   <linked-el length="55" name="%10" offset="2635" path="%36"/>
+   <linked-el length="25" name="%10" offset="442" path="%37"/>
+   <linked-el length="30" name="%10" offset="332" path="%36"/>
+   <linked-el length="38" name="%10" offset="3001" path="%36"/>
+   <linked-el length="37" name="%10" offset="3177" path="%36"/>
+   <linked-el length="45" name="%10" offset="1530" path="%36"/>
+   <linked-el length="31" name="%47" offset="334" path="%41"/>
+   <linked-el length="33" name="%47" offset="951" path="%42"/>
+   <linked-el length="31" name="%47" offset="988" path="%41"/>
+   <linked-el length="26" name="%47" offset="780" path="%42"/>
+   <linked-el length="36" name="%47" offset="1257" path="%41"/>
+   <linked-el length="21" name="%47" offset="644" path="%42"/>
+   <linked-el length="35" name="%47" offset="1521" path="%41"/>
+   <linked-el length="18" name="%22" offset="415" path="%45"/>
+   <linked-el length="18" name="%22" offset="498" path="%45"/>
+   <linked-el length="45" name="%48" offset="995" path="%37"/>
+   <linked-el length="47" name="%48" offset="1267" path="%37"/>
+   <linked-el length="45" name="%48" offset="990" path="%42"/>
+   <linked-el length="47" name="%48" offset="2720" path="%36"/>
+   <linked-el length="47" name="%48" offset="1396" path="%34"/>
+   <linked-el length="47" name="%48" offset="1263" path="%42"/>
+   <linked-el length="45" name="%48" offset="1126" path="%34"/>
+   <linked-el length="39" name="%2" offset="1954" path="%33"/>
+   <linked-el length="21" name="%2" offset="1903" path="%33"/>
+   <linked-el length="78" name="%2" offset="847" path="%34"/>
+   <linked-el length="43" name="%29" offset="322" path="%45"/>
+   <linked-el length="43" name="%29" offset="322" path="%38"/>
+   <linked-el length="19" name="%29" offset="1923" path="%43"/>
+   <linked-el length="21" name="%49" offset="5854" path="%40"/>
+   <linked-el length="39" name="%4" offset="1954" path="%33"/>
+   <linked-el length="21" name="%4" offset="1903" path="%33"/>
+   <linked-el length="78" name="%4" offset="847" path="%34"/>
+   <linked-el length="21" name="%50" offset="6035" path="%40"/>
+   <linked-el length="31" name="%12" offset="334" path="%41"/>
+   <linked-el length="27" name="%12" offset="1638" path="%36"/>
+   <linked-el length="33" name="%12" offset="951" path="%42"/>
+   <linked-el length="31" name="%12" offset="988" path="%41"/>
+   <linked-el length="26" name="%12" offset="780" path="%42"/>
+   <linked-el length="26" name="%12" offset="443" path="%42"/>
+   <linked-el length="40" name="%12" offset="393" path="%41"/>
+   <linked-el length="36" name="%12" offset="1257" path="%41"/>
+   <linked-el length="39" name="%12" offset="1833" path="%41"/>
+   <linked-el length="43" name="%12" offset="1122" path="%42"/>
+   <linked-el length="21" name="%12" offset="644" path="%42"/>
+   <linked-el length="35" name="%12" offset="1521" path="%41"/>
+   <linked-el length="39" name="%21" offset="750" path="%38"/>
+   <linked-el length="30" name="%21" offset="861" path="%38"/>
+   <linked-el length="35" name="%21" offset="604" path="%38"/>
+   <linked-el length="158" name="%51" offset="1519" path="%52"/>
+   <linked-el length="23" name="%31" offset="1585" path="%36"/>
+   <linked-el length="158" name="%53" offset="1519" path="%52"/>
+   <linked-el length="21" name="%54" offset="6035" path="%40"/>
+   <linked-el length="158" name="%55" offset="1519" path="%52"/>
+   <linked-el length="60" name="%55" offset="1168" path="%52"/>
+   <linked-el length="61" name="%55" offset="963" path="%52"/>
+   <linked-el length="119" name="%55" offset="1255" path="%52"/>
+   <linked-el length="61" name="%55" offset="728" path="%52"/>
+   <linked-el length="51" name="%55" offset="858" path="%52"/>
+   <linked-el length="46" name="%55" offset="1419" path="%52"/>
+   <linked-el length="64" name="%55" offset="637" path="%52"/>
+   <linked-el length="78" name="%56" offset="847" path="%34"/>
+   <linked-el length="25" name="%27" offset="1209" path="%43"/>
+   <linked-el length="32" name="%27" offset="1353" path="%43"/>
+   <linked-el length="30" name="%27" offset="1294" path="%43"/>
+   <linked-el length="30" name="%27" offset="1537" path="%43"/>
+   <linked-el length="30" name="%27" offset="1157" path="%43"/>
+   <linked-el length="23" name="%57" offset="2227" path="%36"/>
+   <linked-el length="26" name="%57" offset="2049" path="%36"/>
+   <linked-el length="22" name="%57" offset="2464" path="%36"/>
+   <linked-el length="43" name="%30" offset="322" path="%45"/>
+   <linked-el length="43" name="%30" offset="322" path="%38"/>
+   <linked-el length="19" name="%30" offset="1923" path="%43"/>
+   <linked-el length="78" name="%58" offset="847" path="%34"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/mock/Donnees.java" value="%14"/>
+  <alias path="/contacts-web/pom.xml" value="%40"/>
+  <alias path="converterCategorie" value="%32"/>
+  <alias path="project" value="%39"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/mock/ModelCategorie.java" value="%16"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/mock/ModelConnexion.java" value="%18"/>
+  <alias path="compteActif" value="%28"/>
+  <alias path="/contacts-web/src/main/webapp/erreur.xhtml" value="%52"/>
+  <alias path="converterGetId" value="%1"/>
+  <alias path="initParam" value="%46"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/data/Compte.java" value="%24"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/standard/ModelCompte.java" value="%8"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/standard/ModelPersonne.java" value="%10"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/standard/ModelInfo.java" value="%22"/>
+  <alias path="resource" value="%48"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/mock/ModelPersonne.java" value="%15"/>
+  <alias
+   path="/contacts-web/src/main/webapp/pages/user/personne/liste.xhtml" value="%37"/>
+  <alias path="project.artifactId" value="%49"/>
+  <alias path="utilAppli" value="%4"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/data/mapper/IMapper.java" value="%11"/>
+  <alias path="version" value="%50"/>
+  <alias path="modelCategorie" value="%12"/>
+  <alias path="facesContext.messageList" value="%51"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/converter/ConverterCategorie.java" value="%31"/>
+  <alias path="version.war.plugin" value="%54"/>
+  <alias path="status.last" value="%56"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/util/CompteActif.java" value="%27"/>
+  <alias
+   path="/contacts-web/target/generated-sources/annotations/contacts/jsf/data/mapper/IMapperImpl.java" value="%7"/>
+  <alias
+   path="/contacts-web/src/main/webapp/template/page-standard.xhtml" value="%43"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/mock/ModelCompte.java" value="%17"/>
+  <alias path="/contacts-web/src/main/webapp/WEB-INF/beans.xml" value="%13"/>
+  <alias path="status" value="%58"/>
+  <alias path="/contacts-web/src/main/webapp/pages/info.xhtml" value="%45"/>
+  <alias path="modelCompte" value="%25"/>
+  <alias path="roles" value="%3"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/standard/ModelConnexion.java" value="%20"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/data/Personne.java" value="%35"/>
+  <alias
+   path="/contacts-web/src/main/webapp/pages/admin/categorie/formulaire.xhtml" value="%41"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/standard/ModelCategorie.java" value="%9"/>
+  <alias
+   path="/contacts-web/src/main/webapp/pages/admin/compte/formulaire.xhtml" value="%33"/>
+  <alias
+   path="/contacts-web/src/main/webapp/pages/admin/compte/liste.xhtml" value="%34"/>
+  <alias path="version.war" value="%44"/>
+  <alias path="modelInfo" value="%23"/>
+  <alias path="modelPersonne" value="%26"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/util/ConverterToString.java" value="%5"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/data/Categorie.java" value="%47"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/model/mock/ModelInfo.java" value="%19"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/util/UtilAppli.java" value="%2"/>
+  <alias path="converterToString" value="%6"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/util/UtilJsf.java" value="%29"/>
+  <alias
+   path="/contacts-web/src/main/webapp/pages/admin/categorie/liste.xhtml" value="%42"/>
+  <alias path="modelConnexion" value="%21"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/util/ConverterGetId.java" value="%0"/>
+  <alias
+   path="/contacts-web/src/main/webapp/pages/user/personne/formulaire.xhtml" value="%36"/>
+  <alias path="facesContext" value="%53"/>
+  <alias path="requestScope" value="%55"/>
+  <alias
+   path="/contacts-web/src/main/java/contacts/jsf/data/Telephone.java" value="%57"/>
+  <alias path="/contacts-web/src/main/webapp/connexion.xhtml" value="%38"/>
+  <alias path="utilJsf" value="%30"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

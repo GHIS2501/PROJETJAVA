@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="contacts-commun"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/TEMP/maven-repository/org/slf4j/jcl-over-slf4j/1.7.32/jcl-over-slf4j-1.7.32.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-core-security/13.0.0.Final/wildfly-core-security-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-core-security-api/13.0.0.Final/wildfly-core-security-api-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-api/1.6.0.Final/arquillian-test-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-impl-base/2.0.0/shrinkwrap-descriptors-impl-base-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/projectodd/vdx/vdx-wildfly/1.1.6/vdx-wildfly-1.1.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-api/1.2.6/shrinkwrap-api-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eu/ingwar/tools/arquillian-suite-extension/1.2.2/arquillian-suite-extension-1.2.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-spi/1.6.0.Final/arquillian-test-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/threads/jboss-threads/2.4.0.Final/jboss-threads-2.4.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-api/1.6.0.Final/arquillian-core-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/invocation/jboss-invocation/1.6.0.Final/jboss-invocation-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-spi/1.6.0.Final/arquillian-core-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-remoting/13.0.0.Final/wildfly-remoting-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/jgit/org.eclipse.jgit.ssh.apache/5.9.0.202009080501-r/org.eclipse.jgit.ssh.apache-5.9.0.202009080501-r.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/xnio/xnio-nio/3.8.2.Final/xnio-nio-3.8.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.3_spec/2.0.0.Final/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-http-lightweight/2.6/wagon-http-lightweight-2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.2.6/shrinkwrap-impl-base-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/marshalling/jboss-marshalling/2.0.9.Final/jboss-marshalling-2.0.9.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-aether-provider/3.2.5/maven-aether-provider-3.2.5.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-controller/13.0.0.Final/wildfly-controller-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/2.0.0.Final/jboss-ejb-api_3.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/modules/jboss-modules/1.10.2.Final/jboss-modules-1.10.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0/shrinkwrap-descriptors-api-base-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-domain-management/13.0.0.Final/wildfly-domain-management-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-http-shared/2.6/wagon-http-shared-2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-domain-http-interface/13.0.0.Final/wildfly-domain-http-interface-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/junit5/arquillian-junit5-container/1.7.0.Alpha12/arquillian-junit5-container-1.7.0.Alpha12.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-core-management-client/13.0.0.Final/wildfly-core-management-client-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-settings/3.6.3/maven-settings-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-impl/1.0.0.v20140518/aether-impl-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-api/1.6.0.Final/arquillian-container-test-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-provider-api/3.3.4/wagon-provider-api-3.3.4.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-io/13.0.0.Final/wildfly-io-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/xnio/xnio-api/3.8.2.Final/xnio-api-3.8.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter/5.9.1/junit-jupiter-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/hibernate/validator/hibernate-validator/6.0.22.Final/hibernate-validator-6.0.22.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-builder-support/3.6.3/maven-builder-support-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-process-controller/13.0.0.Final/wildfly-process-controller-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar"/>
+  <path value="C:/TEMP/maven-repository/com/googlecode/javaewah/JavaEWAH/1.1.7/JavaEWAH-1.1.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/test/arquillian-test-impl-base/1.6.0.Final/arquillian-test-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-connector-basic/1.0.0.v20140518/aether-connector-basic-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-platform-mbean/13.0.0.Final/wildfly-platform-mbean-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/projectodd/vdx/vdx-core/1.1.6/vdx-core-1.1.6.jar"/>
+  <path value="C:/TEMP/maven-repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-impl-maven/2.2.7/shrinkwrap-resolver-impl-maven-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/staxmapper/1.3.0.Final/staxmapper-1.3.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-launcher/13.0.0.Final/wildfly-launcher-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-transport-wagon/1.0.0.v20140518/aether-transport-wagon-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-util/1.0.0.v20140518/aether-util-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-api/2.2.7/shrinkwrap-resolver-api-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/security/elytron-web/undertow-server/1.8.0.Final/undertow-server-1.8.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-version/13.0.0.Final/wildfly-version-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-repository-metadata/3.6.3/maven-repository-metadata-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/testenricher/arquillian-testenricher-initialcontext/1.6.0.Final/arquillian-testenricher-initialcontext-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/inject/jakarta.inject-api/1.0.5/jakarta.inject-api-1.0.5.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/sshd/sshd-core/2.4.0/sshd-core-2.4.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/jboss-dmr/1.5.1.Final/jboss-dmr-1.5.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/stdio/jboss-stdio/1.1.0.Final/jboss-stdio-1.1.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/arquillian/wildfly-arquillian-testenricher-msc/3.0.1.Final/wildfly-arquillian-testenricher-msc-3.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/mapstruct/mapstruct/1.5.3.Final/mapstruct-1.5.3.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/testenricher/arquillian-testenricher-ejb/1.6.0.Final/arquillian-testenricher-ejb-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-spi/1.0.0.v20140518/aether-spi-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/jboss-vfs/3.2.15.Final/jboss-vfs-3.2.15.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-spi/1.6.0.Final/arquillian-container-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-server/13.0.0.Final/wildfly-server-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-deployment-repository/13.0.0.Final/wildfly-deployment-repository-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/picketbox/picketbox/5.0.3.Final-redhat-00006/picketbox-5.0.3.Final-redhat-00006.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-api-maven/2.2.7/shrinkwrap-resolver-api-maven-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/remotingjmx/remoting-jmx/3.0.4.Final/remoting-jmx-3.0.4.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-protocol/13.0.0.Final/wildfly-protocol-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/arquillian/wildfly-arquillian-protocol-jmx/3.0.1.Final/wildfly-arquillian-protocol-jmx-3.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/aether/aether-api/1.0.0.v20140518/aether-api-1.0.0.v20140518.jar"/>
+  <path value="C:/TEMP/maven-repository/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/arquillian/wildfly-arquillian-container-remote/3.0.1.Final/wildfly-arquillian-container-remote-3.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-network/13.0.0.Final/wildfly-network-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.3_spec/2.0.1.Final/jboss-annotations-api_1.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/commons-io/commons-io/2.10.0/commons-io-2.10.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-api/1.6.0.Final/arquillian-config-api-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/security/wildfly-elytron/1.18.1.Final/wildfly-elytron-1.18.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-spi/1.6.0.Final/arquillian-config-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-spi/2.2.7/shrinkwrap-resolver-spi-2.2.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/common/wildfly-common/1.5.4.Final/wildfly-common-1.5.4.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/jandex/2.4.1.Final/jandex-2.4.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/logmanager/jboss-logmanager/2.1.17.Final/jboss-logmanager-2.1.17.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/remoting/jboss-remoting/5.0.19.Final/jboss-remoting-5.0.19.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/arquillian/wildfly-arquillian-common/3.0.1.Final/wildfly-arquillian-common-3.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/jgit/org.eclipse.jgit/5.9.0.202009080501-r/org.eclipse.jgit-5.9.0.202009080501-r.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/classfilewriter/jboss-classfilewriter/1.2.4.Final/jboss-classfilewriter-1.2.4.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/io/undertow/undertow-core/2.2.0.Final/undertow-core-2.2.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/marshalling/jboss-marshalling-river/2.0.9.Final/jboss-marshalling-river-2.0.9.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.6.0.Final/arquillian-container-test-spi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/shrinkwrap-spi/1.2.6/shrinkwrap-spi-1.2.6.jar"/>
+  <path value="C:/TEMP/maven-repository/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.4/org.eclipse.sisu.inject-0.3.4.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-model/3.6.3/maven-model-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/testenricher/arquillian-testenricher-resource/1.6.0.Final/arquillian-testenricher-resource-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/protocol/arquillian-protocol-jmx/1.6.0.Final/arquillian-protocol-jmx-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/wagon/wagon-file/3.3.4/wagon-file-3.3.4.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-controller-client/13.0.0.Final/wildfly-controller-client-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/msc/jboss-msc/1.4.13.Final/jboss-msc-1.4.13.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.6.0.Final/arquillian-container-test-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/plugins/wildfly-plugin-core/2.0.2.Final/wildfly-plugin-core-2.0.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/2.0.0/shrinkwrap-descriptors-spi-2.0.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/core/wildfly-jmx/13.0.0.Final/wildfly-jmx-13.0.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/jakarta/enterprise/jakarta.enterprise.cdi-api/2.0.2/jakarta.enterprise.cdi-api-2.0.2.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-settings-builder/3.6.3/maven-settings-builder-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/junit5/arquillian-junit5-core/1.7.0.Alpha12/arquillian-junit5-core-1.7.0.Alpha12.jar"/>
+  <path value="C:/TEMP/maven-repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/mapstruct/mapstruct-processor/1.5.3.Final/mapstruct-processor-1.5.3.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/wildfly/client/wildfly-client-config/1.0.1.Final/wildfly-client-config-1.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/2.0.1.Final/jboss-jaxb-api_2.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.6.0.Final/arquillian-config-impl-base-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/maven/maven-model-builder/3.6.3/maven-model-builder-3.6.3.jar"/>
+  <path value="C:/TEMP/maven-repository/org/apache/sshd/sshd-common/2.7.0/sshd-common-2.7.0.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.6.0.Final/arquillian-protocol-servlet-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/arquillian/testenricher/arquillian-testenricher-cdi/1.6.0.Final/arquillian-testenricher-cdi-1.6.0.Final.jar"/>
+  <path value="C:/TEMP/maven-repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar"/>
+  <path value="C:/TEMP/maven-repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-spi-maven/2.2.7/shrinkwrap-resolver-spi-maven-2.2.7.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;%2;" path="%0"/>
+   <linked-resource name="%4;" path="%3"/>
+   <linked-resource name="%4;%6;" path="%5"/>
+   <linked-resource name="%4;%6;%1;%2;" path="%7"/>
+   <linked-resource name="%1;%2;" path="%8"/>
+   <linked-resource name="%4;" path="%9"/>
+   <linked-resource name="%4;%6;" path="%10"/>
+   <linked-resource name="%4;%6;%1;%2;" path="%11"/>
+  </core>
+  <el>
+   <linked-el length="21" name="%12" offset="5086" path="%13"/>
+   <linked-el length="21" name="%14" offset="4769" path="%13"/>
+   <linked-el length="21" name="%15" offset="4769" path="%13"/>
+   <linked-el length="21" name="%16" offset="5086" path="%13"/>
+   <linked-el length="21" name="%17" offset="5086" path="%13"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/dao/IDaoPersonne.java" value="%5"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/service/standard/ServicePersonne.java" value="%6"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/service/standard/ServiceCompte.java" value="%1"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/dao/IDaoCompte.java" value="%8"/>
+  <alias path="version.ejb" value="%12"/>
+  <alias path="project.artifactId" value="%14"/>
+  <alias path="project" value="%15"/>
+  <alias path="version" value="%16"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/dao/jpa/DaoCategorie.java" value="%9"/>
+  <alias
+   path="/contacts-ejb/target/generated-sources/annotations/contacts/ejb/data/mapper/IMapperEjbImpl.java" value="%7"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/dao/jpa/DaoPersonne.java" value="%10"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/service/standard/ServiceCategorie.java" value="%4"/>
+  <alias path="/contacts-ejb/pom.xml" value="%13"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/data/mapper/IMapperEjb.java" value="%11"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/dao/jpa/DaoCompte.java" value="%0"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/dao/IDaoCategorie.java" value="%3"/>
+  <alias
+   path="/contacts-ejb/src/main/java/contacts/ejb/service/standard/ServiceConnexion.java" value="%2"/>
+  <alias path="version.ejb.plugin" value="%17"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>
